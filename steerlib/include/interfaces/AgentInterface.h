@@ -115,6 +115,9 @@ namespace SteerLib {
 		// So AgentInterface can get Simulation members
 		virtual SteerLib::EngineInterface * getSimulationEngine() = 0;
 
+
+		// added by bingchen
+		Util::Color getColor() { return _color; }
 #define AGENT_NEIGHBOURS 10
 		virtual void insertAgentNeighbor(const SteerLib::AgentInterface * agent, float &rangeSq);
 		virtual void insertObstacleNeighbor(const ObstacleInterface *obstacle, float rangeSq);

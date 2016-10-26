@@ -32,7 +32,7 @@ Implement different social forces algorithms which will be applied to agents dur
       b. Leader Following
       c. Queueing
 ###C. Highlighted
-      a. Full Flocks Implementation (cohesion, separations and alignment) 
-      b. Deformable Agents
-      c. Elliptical Collision
-      d. Area Deadlock Resolution 
+      #####a. Full Flocks Implementation (cohesion, separations and alignment) 
+      #####b. Deformable Agents
+      #####c. Elliptical Collision
+      #####d. Area Deadlock Resolution 

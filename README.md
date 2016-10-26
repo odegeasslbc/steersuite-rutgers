@@ -32,8 +32,7 @@ Implement different social forces algorithms which will be applied to agents dur
       b. Leader Following
       c. Queueing
 ###C. Highlighted
-      a. Beat benchmarks for bottleneck-evacuation, hallway one.two and four ways
-      b. Full Flocks Implementation (cohesion, separations and alignment) 
-      c. Deformable Agents
-      d. Elliptical Collision
-      e. Area Deadlock Resolution 
+      a. Full Flocks Implementation (cohesion, separations and alignment) 
+      b. Deformable Agents
+      c. Elliptical Collision
+      d. Area Deadlock Resolution 
